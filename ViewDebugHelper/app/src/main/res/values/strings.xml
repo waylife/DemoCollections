@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewDebugHelper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="view_debug_helper_service_description">ViewDebugHelper获取当前activity信息辅助服务，不使用软件时可关闭</string>
+</resources>
