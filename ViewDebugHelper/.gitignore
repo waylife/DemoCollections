@@ -8,7 +8,7 @@
 .DS_Store
 /build
 /captures
-/.idea
+.idea
 *.iml
 
 # Built application files
@@ -29,6 +29,7 @@ gen/
 .gradle/
 build/
 /*/build/
+/gradle.properties
 
 # Local configuration file (sdk path, etc)
 local.properties
